@@ -27,10 +27,45 @@ height: 300px;
 margin: 0 40px 0 30px;
 background-color: chartreuse; 
 }
-.page2 div{
+.page2{
 width: 895px;
 height: 950px;
-margin: 30px 15px 20px 20px;
-background-color: chartreuse;
-padding-top: 10px;
+margin: 60px 0 0 80px;
+background-color: #FF006A;
+padding-top: 30px;
+
+}
+.page2a{
+width: 835px;
+height: 260px;
+margin: 0 20px 15px 40px;
+background-color:chartreuse;
+padding: 30px 0 10px 0;
+}
+.page2xb{
+width: 800px;
+height: 100px;
+margin: 0 15px 20px 20px;
+background-color: chocolate;
+padding-top:10px;
+}
+.page2xc{
+width: 800px;
+height: 100px;
+margin: 0 15px 0 20px;
+background-color: chocolate;
+padding-top:10px;
+}
+.page2xd{
+    width: 835px;
+    height: 350px;
+    margin: 0 30px 20px 30px;
+    background-color: cyan;
+}
+.page2xe{
+    width: 800px;
+    height: 100px;
+    margin: 30px 25px 20px 10px;
+    background-color: cornsilk;
+    padding: 20px;
 }
